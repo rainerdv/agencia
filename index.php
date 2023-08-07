@@ -74,7 +74,7 @@ if ($error) {
         <thead>
           <tr>
             <th>id</th>
-            <th>Nombg</th>
+            <th>Nombres</th>
             <th>Apellido</th>
             <th>Email</th>
             <th>No.telefono</th>
